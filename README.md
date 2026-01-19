@@ -1,23 +1,19 @@
 # Personal Finance Advisor – Smart Budget Tool (Python)
 
-**A simple yet useful Python program that helps people in Pakistan manage monthly finances and get practical advice.**
+A simple yet useful Python program that helps people of the land of pure manage monthly finances and get practical advice.
 
-## Why I built this
-Financial literacy is limited for many young people in Pakistan. This tool shows how programming can solve real-life problems — basic version now, planning to add data analysis / AI suggestions later.
+Why I built this
 
-## Features
-- Input income + expenses by category
+Most youth in Pakistan have less financial literacy. Here's how programming helps to solve real-life problem(s)- basic version now, planning to add data analysis/ AI suggestions later.
+Features
+- Inputting income and expenses according to category
 - Calculates remaining money
-- Gives rule-based smart advice (e.g. high food/entertainment spending warnings)
-- Tracks progress toward savings goals
+
+Realizes rule-based smart guidance, such as high spending on food and entertainment.
+Savings goals-keeps track of progress towards them
 
 ## Technologies
-- Pure Python (no external libraries — easy to run!)
+Pure Python - no external libraries (thus easy to run!)
 - Input validation & clean text output
 
-## What I learned
-- Working with dictionaries & user input loops
-- Basic financial logic & decision making
-- Writing clear & helpful programs
-
-Future plans: add charts (matplotlib), save history to file, maybe simple ML predictions.
+What I have learned Working with Dictionaries & User input Loops Finances - Basic financial logic & decision making Writing clear and helpful programs Further plans: add charts - matplotlib, save history to file, maybe simple ML prediction.
